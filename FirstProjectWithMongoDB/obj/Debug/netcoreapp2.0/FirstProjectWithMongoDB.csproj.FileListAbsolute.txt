@@ -1,0 +1,11 @@
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\bin\Debug\netcoreapp2.0\FirstProjectWithMongoDB.deps.json
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\bin\Debug\netcoreapp2.0\FirstProjectWithMongoDB.runtimeconfig.json
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\bin\Debug\netcoreapp2.0\FirstProjectWithMongoDB.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\bin\Debug\netcoreapp2.0\FirstProjectWithMongoDB.dll
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\obj\Debug\netcoreapp2.0\FirstProjectWithMongoDB.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\obj\Debug\netcoreapp2.0\FirstProjectWithMongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\obj\Debug\netcoreapp2.0\FirstProjectWithMongoDB.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\obj\Debug\netcoreapp2.0\FirstProjectWithMongoDB.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\bin\Debug\netcoreapp2.0\FirstProjectWithMongoDB.pdb
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\obj\Debug\netcoreapp2.0\FirstProjectWithMongoDB.dll
+C:\Users\Vinicius\source\repos\FirstProjectWithMongoDB\FirstProjectWithMongoDB\obj\Debug\netcoreapp2.0\FirstProjectWithMongoDB.pdb
